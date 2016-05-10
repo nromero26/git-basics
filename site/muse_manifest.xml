@@ -1,0 +1,62 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nromero26/nromero26.github.io" resolutions="1x" timestamp="1462888780805">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="4214792619" ref="index"/>
+    <file name="index.css" crc="289021543" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="145535696" ref="index"/>
+    <file name="t4.png" crc="85646632" seo="true" ref="index"/>
+    <file name="u436-4.png" crc="480559109" ref="index"/>
+    <file name="u1165-4.png" crc="3813954458" ref="index"/>
+    <file name="order jpg.png" crc="4033449135" seo="true" ref="index"/>
+    <file name="u468-4.png" crc="3973025916" ref="index"/>
+    <file name="u461-4.png" crc="4069247621" ref="index"/>
+    <file name="u471-4.png" crc="195273447" ref="index"/>
+    <file name="layer 8.jpg" crc="164026293" seo="true" ref="index"/>
+    <file name="u528-4.png" crc="245164288" ref="index"/>
+    <file name="u525-4.png" crc="128052660" ref="index"/>
+    <file name="layer 5.png" crc="4044144035" seo="true" ref="index"/>
+    <file name="u489-4.png" crc="137069038" ref="index"/>
+    <file name="u480-4.png" crc="4212412042" ref="index"/>
+    <file name="layer 4.png" crc="4258821949" seo="true" ref="index"/>
+    <file name="u507-4.png" crc="4059148556" ref="index"/>
+    <file name="u495-4.png" crc="224620170" ref="index"/>
+    <file name="layer 3 copy.png" crc="397162482" seo="true" ref="index"/>
+    <file name="u513-4.png" crc="3936745291" ref="index"/>
+    <file name="u516-4.png" crc="212822866" ref="index"/>
+    <file name="shape 1.png" crc="4040550900" seo="true" ref="index"/>
+    <file name="shape 2.png" crc="4027048942" seo="true" ref="index"/>
+    <file name="u519-4.png" crc="3915942527" ref="index"/>
+    <file name="u522-6.png" crc="520408981" ref="index"/>
+    <file name="layer 6.png" crc="422040113" seo="true" ref="index"/>
+    <file name="u492-5.png" crc="3823955457" ref="index"/>
+    <file name="u498-4.png" crc="36875292" ref="index"/>
+    <file name="u445-7.png" crc="272480596" ref="index"/>
+    <file name="u448-4.png" crc="527387620" ref="index"/>
+    <file name="counters.png" crc="3943419562" seo="true" ref="index"/>
+    <file name="pricing plans.jpg" crc="3984205639" seo="true" ref="index"/>
+    <file name="u949-4.png" crc="295214423" ref="index"/>
+    <file name="badge 2-u932.png" crc="307685824" ref="index"/>
+    <file name="badge 1.jpg" crc="175311135" seo="true" ref="index"/>
+    <file name="1my screen.jpg" crc="131650632" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2 my sign up or login.jpg" crc="128251423" seo="true" ref="index"/>
+    <file name="3 my new order.jpg" crc="147887663" seo="true" ref="index"/>
+    <file name="4 my cart.jpg" crc="160729616" seo="true" ref="index"/>
+    <file name="5 receipt.jpg" crc="3834069203" seo="true" ref="index"/>
+    <file name="6 my map.jpg" crc="3993488294" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4225980779" seo="true" mt="1462888780571" redirect="true"/>
+</manifest>
